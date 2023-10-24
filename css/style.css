@@ -1,7 +1,7 @@
 :root{
-    --mainDark: rgb(63, 61, 61);
-    --mainLight: rgb(101, 248, 101);
-    --textColor: white;
+    --mainDark: rgb(251, 229, 191);
+    --mainLight: rgb(66, 43, 1);
+    --textColor: rgb(16, 8, 0);
 }
 body{
     background-color: var(--mainDark);
@@ -23,7 +23,7 @@ body{
 }
 .code-card .card-header{
     color: var(--mainLight);
-    border: solid 2px white;
+    border: solid 2px  rgb(66, 43, 1);
     border-radius: 10px;
     justify-content: center;
     padding: 10px;
@@ -43,7 +43,7 @@ section{
     padding: 20px;
 }
 .card-column{
-    border: solid 2px white;
+    border: solid 2px  rgb(66, 43, 1);
     border-style: dashed;
     width: 500px;
     height: 300px;
@@ -61,7 +61,7 @@ section{
 }
 
 .card-column .code-block{
-    border: solid 2px white;
+    border: solid 2px  rgb(66, 43, 1);;
     border-radius: 10px;
     padding: 20px;
     background: linear-gradient(to bottom, var(--mainDark), var(--mainLight));
