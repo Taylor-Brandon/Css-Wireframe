@@ -1,0 +1,82 @@
+:root{
+    --mainDark: rgb(63, 61, 61);
+    --mainLight: rgb(101, 248, 101);
+    --textColor: white;
+}
+body{
+    background-color: var(--mainDark);
+    color: var(--textColor);
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main-title{
+    color: var(--mainLight);
+    text-align: center;
+    padding: 20px;
+    font-size: 45px;
+}
+.main-p{
+    display: block;
+    padding: 20px;
+    margin: 0 30px;
+    font-size: 22px;
+    text-align: center;
+}
+.code-card .card-header{
+    color: var(--mainLight);
+    border: solid 2px white;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    margin-top: -45px;
+    margin-bottom: 1.5px;
+    background-color: var(--mainDark);
+}
+h2{
+    font-size: 30px;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 20px;
+}
+.card-column{
+    border: solid 2px white;
+    border-style: dashed;
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    margin: 10px;
+    margin-bottom: 40px;
+    margin-right: 10px;
+    transition: all 1s ease-out;
+}
+
+.card-body .card-p{
+    color: var(--mainLight);
+    font-size: 17px;
+    padding: 10px;
+}
+
+.card-column .code-block{
+    border: solid 2px white;
+    border-radius: 10px;
+    padding: 20px;
+    background: linear-gradient(to bottom, var(--mainDark), var(--mainLight));
+    height: 200px;
+    font-size: 20px;
+    user-select: all;
+}
+
+.card-column:hover{
+    box-shadow: 0 0 40px var(--mainLight);
+    cursor: grab;
+}
+
+footer{
+    font-size: 20px;
+    text-align: center;
+}
+
