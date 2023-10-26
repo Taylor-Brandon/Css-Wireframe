@@ -31,7 +31,7 @@ In order to utilize and use this application, users should navigate to the live 
 
 # License
 
-This application utilizes a MIT Licence.
+This is an open source application that utilizes a MIT Licence.
 
 # Documentation
 - [HTML pre element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
