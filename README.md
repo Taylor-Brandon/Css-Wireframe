@@ -34,10 +34,10 @@ In order to utilize and use this application, users should navigate to the live 
 This application utilizes a MIT Licence.
 
 # Documentation
-- HTML pre element: (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
-- Css user-select property: (https://developer.mozilla.org/en-US/docs/Web/CSS/user-select)
-- Css linear-gradient property: (https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient)
-- Css transition property: (https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
+- [HTML pre element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
+- [Css user-select property](https://developer.mozilla.org/en-US/docs/Web/CSS/user-select)
+- [Css linear-gradient property](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient)
+- [Css transition property](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
 
 
 #  Changelog: Include a changelog or release notes to inform users about updates, bug fixes, and new features in different versions of your application.
@@ -45,13 +45,14 @@ Unfortunaly, this application is not reesponsive given that media-screen queries
 
 
 # Contact Information: Provide contact information or links to your social media or repository, so users can reach out with questions or feedback.
-If you have any questions, suggestions, or feedback, you can reach out to the project maintainer at (taylor.brandon22545@gmail.com) or create an issue on the GitHub repository.
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer at[taylor.brandon22545@gmail.com](taylor.brandon22545@gmail.com) or create an issue on the GitHub repository.
 
 # Screenshots or Visuals: If your application has a graphical user interface, consider adding screenshots or diagrams to help users visualize the application.
+![Application Screenshot](https://github.com/Taylor-Brandon/Css_Wireframe/master/Css Snapshot.png)
 
 
 # Demo: If possible, include a link to a live demo of your application.
-You can find this application's live demo here: (https://taylor-brandon.github.io/Css-Wireframe/)
+You can find this application's live demo here [Live Demo](https://taylor-brandon.github.io/Css-Wireframe/)
 
 # Acknowledgments: Mention any specific individuals or organizations that have provided support or inspiration for your project.
 
